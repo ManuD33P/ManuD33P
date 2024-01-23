@@ -32,9 +32,8 @@ Tengo 28 años.
 
 ¡Me encantaría conectarme contigo! Puedes encontrarme en:
 
-- 📧 [Correo Electrónico](mailto:tuemail@gmail.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/tu-perfil/)
-- 🐦 [Twitter](https://twitter.com/tuusername)
+- 📧 [Correo Electrónico](mailto:manudeev7@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/emanuel-dominguez-477abb178/)
 
 ¡Gracias por visitar mi perfil! Espero que encuentres algo interesante aquí. 😊
 
