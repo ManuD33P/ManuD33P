@@ -19,7 +19,8 @@ Actualmente, estoy enfocado en mejorar mis habilidades en:
 - 🌐 **GraphQL:** Explorando nuevas formas de manejar datos en la web.
 - 🚀 **Microservicios:** Descomponiendo aplicaciones en componentes más pequeños y manejables.
 - 🤖 **Machine Learning:** Incorporando inteligencia artificial en mis proyectos.
-
+-    **TypeScript**
+-    **Prisma**
 ## 🌎 Ubicación
 
 Soy de Argentina, específicamente de Córdoba.
