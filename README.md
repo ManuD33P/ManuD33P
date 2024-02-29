@@ -27,7 +27,7 @@ Soy de Argentina, específicamente de Córdoba.
 
 ## 🎂 Edad
 
-Tengo 28 años.
+Tengo 29 años.
 
 ## 🤝 Contacto
 
