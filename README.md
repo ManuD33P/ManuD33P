@@ -11,6 +11,8 @@
 - 🖥️ **Node.js | Express:** En el lado del servidor, siempre utilizando estas tecnologías potentes.
 - 📦 **MongoDB | SQLite:** Manejo de datos con bases de datos NoSQL y SQL.
 - 🎨 **Tailwind CSS:** Agregando estilo de manera eficiente y modular.
+-    **WebSocket**  Manejo de socket.io, y ws.
+-    **WebRTC**     Manejo de conecciones peer to peer.
 
 ## 🌱 Aprendiendo
 
