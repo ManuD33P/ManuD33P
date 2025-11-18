@@ -4,11 +4,12 @@
 
 ## 🚀 Tecnologías
 
-- 💻 **Javascript | HTML | CSS:** Mi trío favorito para construir interfaces web.
+- 💻 **Javascript | PHP | HTML | CSS:** Mi trío favorito para construir interfaces web.
 - ⚛️ **React:** Para crear aplicaciones modernas y dinámicas.
 - 📱 **React Native:** Siempre explorando el desarrollo móvil multiplataforma.
 - 🌐 **Next.js:** Para aplicaciones web rápidas y eficientes.
 - 🖥️ **Node.js | Express:** En el lado del servidor, siempre utilizando estas tecnologías potentes.
+- 🖥️ **PHP | SYMFONY :** En el lado del servidor, siempre utilizando estas tecnologías potentes.
 - 📦 **MongoDB | SQLite:** Manejo de datos con bases de datos NoSQL y SQL.
 - 🎨 **Tailwind CSS:** Agregando estilo de manera eficiente y modular.
 -    **WebSocket**  Manejo de socket.io, y ws.
